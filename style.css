@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family:sans-serif;
+}
+body{
+    overflow-x: hidden;
+}
+#logo{
+    width:120px;
+    height: 120px;
+}
+.nav-item{
+    font-size: 20px;
+}
+#content{
+    background-image: url(./media/bg.jpg);
+    background-position: center;
+    height: 700px;
+    width: 100%;
+    background-repeat: no repeat;
+    background-size: cover;
+}
+#bg1{
+    background-color: rgba(0, 0, 0, 0.471);
+    height: 700px;
+}
+#text{
+    padding-top: 22%;
+    padding-left: 5%;
+}
+#text h3{
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+    letter-spacing: 3px;
+}
+#text h1{
+    color: rgb(255, 217, 0);
+    font-size: 80px;
+    font-weight: 700;
+    letter-spacing: 3px;
+}
+#text h4{
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 3px;
+}
+#heading h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+#price{
+    font-weight: 800;
+}
